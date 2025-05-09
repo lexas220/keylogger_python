@@ -1,0 +1,5 @@
+[2025-05-09 15:33:31] [SCREENSHOT] screenshot_2025-05-09_15-33-31.png sauvegardé dans screen_pc
+[2025-05-09 15:33:33] [KEY] Key.ctrl_l
+[2025-05-09 15:33:33] [KEY] Key.shift
+[2025-05-09 15:33:33] [KEY] Key.esc
+[2025-05-09 15:33:33] [INFO] Arrêt via Échap
